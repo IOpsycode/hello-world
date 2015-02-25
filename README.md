@@ -1,2 +1,4 @@
 # hello-world
-ye olde repositorie
+Hi everyone.
+
+I am interested in learning to create a few web-crawling applications.
